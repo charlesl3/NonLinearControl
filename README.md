@@ -31,6 +31,6 @@ F1 = dlqr(a,b,Q1,R1);
 
 ## Project 1: Review of Modern Control Theory
 ## Project 2: The Extended Kalman Filter (EKF)
-## Project : Feedback Linearization
+## Project 3: Feedback Linearization
 
 
